@@ -1,0 +1,16 @@
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.exe
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.deps.json
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.runtimeconfig.json
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.runtimeconfig.dev.json
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.dll
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\bin\Debug\net5.0\CSharpSocialNetWorkManage.pdb
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.csproj.AssemblyReference.cache
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.AssemblyInfoInputs.cache
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.AssemblyInfo.cs
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.csproj.CoreCompileInputs.cache
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.dll
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\refint\CSharpSocialNetWorkManage.dll
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.pdb
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\CSharpSocialNetWorkManage.genruntimeconfig.cache
+C:\Curso Net5\CURSO\CSharpSocialNetWorkManage\obj\Debug\net5.0\ref\CSharpSocialNetWorkManage.dll

@@ -1,0 +1,16 @@
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Curso Net5\CURSO\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Curso Net5\CURSO\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

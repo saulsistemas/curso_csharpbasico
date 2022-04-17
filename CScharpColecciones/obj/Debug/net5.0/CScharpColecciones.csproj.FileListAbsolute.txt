@@ -1,0 +1,16 @@
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.exe
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.deps.json
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.runtimeconfig.json
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.runtimeconfig.dev.json
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.dll
+C:\Curso Net5\CURSO\CScharpColecciones\bin\Debug\net5.0\CScharpColecciones.pdb
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.csproj.AssemblyReference.cache
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.AssemblyInfoInputs.cache
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.AssemblyInfo.cs
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.csproj.CoreCompileInputs.cache
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.dll
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\refint\CScharpColecciones.dll
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.pdb
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\CScharpColecciones.genruntimeconfig.cache
+C:\Curso Net5\CURSO\CScharpColecciones\obj\Debug\net5.0\ref\CScharpColecciones.dll

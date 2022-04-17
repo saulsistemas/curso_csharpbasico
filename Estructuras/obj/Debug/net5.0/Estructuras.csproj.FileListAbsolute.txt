@@ -1,0 +1,16 @@
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.exe
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.deps.json
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.runtimeconfig.json
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.runtimeconfig.dev.json
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.dll
+C:\Curso Net5\CURSO\Estructuras\bin\Debug\net5.0\Estructuras.pdb
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.csproj.AssemblyReference.cache
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.AssemblyInfoInputs.cache
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.AssemblyInfo.cs
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.csproj.CoreCompileInputs.cache
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.dll
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\refint\Estructuras.dll
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.pdb
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\Estructuras.genruntimeconfig.cache
+C:\Curso Net5\CURSO\Estructuras\obj\Debug\net5.0\ref\Estructuras.dll

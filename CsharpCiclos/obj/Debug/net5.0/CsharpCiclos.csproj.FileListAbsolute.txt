@@ -1,0 +1,16 @@
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.exe
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.deps.json
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.runtimeconfig.json
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.runtimeconfig.dev.json
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.dll
+C:\Curso Net5\CURSO\CsharpCiclos\bin\Debug\net5.0\CsharpCiclos.pdb
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.csproj.AssemblyReference.cache
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.AssemblyInfoInputs.cache
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.AssemblyInfo.cs
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.csproj.CoreCompileInputs.cache
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.dll
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\refint\CsharpCiclos.dll
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.pdb
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\CsharpCiclos.genruntimeconfig.cache
+C:\Curso Net5\CURSO\CsharpCiclos\obj\Debug\net5.0\ref\CsharpCiclos.dll
