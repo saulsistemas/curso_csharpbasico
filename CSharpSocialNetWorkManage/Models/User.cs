@@ -8,9 +8,15 @@ namespace CSharpSocialNetWorkManage.Models
 {
     internal class User
     {
+        public User()
+        {
+            DateCreated= DateTime.Now; 
+        }
         public string Name { get; set; }
         public string Email { get; set; }
-        public bool IsActive { get; set; }
+        public bool IsActive { get; set; } = true;
+        public DateTime DateCreated { get; set; }
+        public short Age { get; set; }
 
     }
 }
