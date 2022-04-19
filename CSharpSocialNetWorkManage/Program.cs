@@ -17,12 +17,20 @@ namespace CSharpSocialNetWorkManage
             user.Email = Console.ReadLine();
             Console.WriteLine("Ingrese su Edad");
             user.Age =short.Parse( Console.ReadLine());
+
+            if (user.IsValid())
+            {
+                Console.WriteLine($"Su nombre es {user.Name}");
+                Console.WriteLine($"Su correo es {user.Email}");
+                Console.WriteLine($"Su edad es {user.Age}");
+                Console.WriteLine($"Esta activo {user.IsActive}");
+                Console.WriteLine($"Fecha creacion {user.DateCreated}");
+            }
+            else
+            {
+                Console.WriteLine("No son validos");
+            }
             
-            Console.WriteLine($"Su nombre es {user.Name}");
-            Console.WriteLine($"Su correo es {user.Email}");
-            Console.WriteLine($"Su edad es {user.Age}");
-            Console.WriteLine($"Esta activo {user.IsActive}");
-            Console.WriteLine($"Fecha creacion {user.DateCreated}");
 
         }
     }

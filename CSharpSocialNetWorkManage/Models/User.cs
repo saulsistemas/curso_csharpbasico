@@ -18,5 +18,16 @@ namespace CSharpSocialNetWorkManage.Models
         public DateTime DateCreated { get; set; }
         public short Age { get; set; }
 
+        public bool IsValid(bool validateAge)
+        {
+            if(string.IsNullOrEmpty(Name)|| string.IsNullOrEmpty(Email))
+            {
+                return false;
+            }
+
+            if((Age<0 || Age > 250) && validateAge)  return false;
+            
+            return true;
+        }
     }
 }
